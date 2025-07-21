@@ -35,7 +35,7 @@ The goal was to analyze how different types of promotional offers (BOGO, discoun
 
 ## 📈 Sample Insights
 - **BOGO offers** had the highest CTR.
-- **DISCOUNT offers** had the highest Completion and transaction rates, implying that customers preferred prices to a "buy one get one free" offer.
+- **DISCOUNT offers** had the highest Completion and transaction rates, implying that customers preferred discounted prices to a "buy one get one free" offer.
 - **WEMS (Web, Email, Mobile, Social)** channel grouping performed best in terms of conversion.
 - **Young adults** and **mid-income groups** responded more actively to promotional offers.
 
